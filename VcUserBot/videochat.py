@@ -17,17 +17,17 @@ from config import HNDLR, bot, call_py
 from VcUserBot.helpers.queues import QUEUE, add_to_queue, get_queue
 
 BrayDan = [
-    "https://telegra.ph/file/a1617bd434b68b3dcedb7.jpg",
-    "https://telegra.ph/file/a1617bd434b68b3dcedb7.jpg",
-    "https://telegra.ph/file/a1617bd434b68b3dcedb7.jpg",
-    "https://telegra.ph/file/a1617bd434b68b3dcedb7.jpg",
-    "https://telegra.ph/file/a1617bd434b68b3dcedb7.jpg",
-    "https://telegra.ph/file/a1617bd434b68b3dcedb7.jpg",
-    "https://telegra.ph/file/b67b3056dcf958aa4fd4e.jpg",
-    "https://telegra.ph/file/b67b3056dcf958aa4fd4e.jpg",
-    "https://telegra.ph/file/b67b3056dcf958aa4fd4e.jpg",
-    "https://telegra.ph/file/b67b3056dcf958aa4fd4e.jpg",
-    "https://telegra.ph/file/b67b3056dcf958aa4fd4e.jpg",
+    "https://telegra.ph/file/22bc9024645f5bccb50fb.jpg",
+    "https://telegra.ph/file/22bc9024645f5bccb50fb.jpg",
+    "https://telegra.ph/file/22bc9024645f5bccb50fb.jpg",
+    "https://telegra.ph/file/22bc9024645f5bccb50fb.jpg",
+    "https://telegra.ph/file/22bc9024645f5bccb50fb.jpg",
+    "https://telegra.ph/file/22bc9024645f5bccb50fb.jpg",
+    "https://telegra.ph/file/22bc9024645f5bccb50fb.jpg",
+    "https://telegra.ph/file/22bc9024645f5bccb50fb.jpg",
+    "https://telegra.ph/file/22bc9024645f5bccb50fb.jpg",
+    "https://telegra.ph/file/22bc9024645f5bccb50fb.jpg",
+    "https://telegra.ph/file/22bc9024645f5bccb50fb.jpg",
 ]
 
 IMAGE_THUMBNAIL = random.choice(BrayDan)
